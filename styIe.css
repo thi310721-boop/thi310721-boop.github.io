@@ -24,7 +24,7 @@ section {
     max-width: 800px;
     background: white;
     border-radius: 8px; 
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 h2 {
     color: #4CAF50;
@@ -36,7 +36,7 @@ h2 {
     margin: 0 0 10px;
     color: #333;
 }
-  ul
+  ul {
   list-style-type: square; 
   padding-left: 20px;
 }
